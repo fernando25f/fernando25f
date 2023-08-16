@@ -1,4 +1,4 @@
-### Fernando Angélico de Souza Filho👋
+### Fernando Angélico de Souza Filho
 <div align="center">
   <a href="https://github.com/fernando25f">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernando25f&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,6 @@
 
 <div>
   <h4> Eng. Elétrica UFG 3/10 </h4>
-  <h4> Estudando JavaScript </h4>
   <h5> Linguagens: </h5>
 </div>
  <div style="display: inline_block"><br>
